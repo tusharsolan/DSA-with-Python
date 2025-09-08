@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tusharsolan/DSA-with-Python/tree/master/0050-powx-n) |
+| [1971-incremental-memory-leak](https://github.com/tusharsolan/DSA-with-Python/tree/master/1971-incremental-memory-leak) |
 ## Recursion
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
+| [1971-incremental-memory-leak](https://github.com/tusharsolan/DSA-with-Python/tree/master/1971-incremental-memory-leak) |
 <!---LeetCode Topics End-->
