@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tusharsolan/DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [1971-incremental-memory-leak](https://github.com/tusharsolan/DSA-with-Python/tree/master/1971-incremental-memory-leak) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
