@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tusharsolan/DSA-with-Python/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tusharsolan/DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tusharsolan/DSA-with-Python/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
