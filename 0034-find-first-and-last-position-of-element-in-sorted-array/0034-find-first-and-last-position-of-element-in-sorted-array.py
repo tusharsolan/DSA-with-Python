@@ -2,34 +2,34 @@ from typing import List
 
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        def first_occurrence(nums, target):
-            start, end = 0, len(nums) - 1
-            res = -1
-            while start <= end:
-                mid = start + (end - start) // 2
-                if nums[mid] == target:
-                    res = mid
-                    end = mid - 1   # move left to find first occurrence
-                elif target < nums[mid]:
-                    end = mid - 1
+        def lowerBound(nums: List[int], target: int) -> int:
+            n = len(nums)
+            low, high = 0, n - 1
+            ans = n
+            while low <= high:
+                mid = (low + high) // 2
+                if nums[mid] >= target:
+                    ans = mid
+                    high = mid - 1  # look left
                 else:
-                    start = mid + 1
-            return res
+                    low = mid + 1   # look right
+            return ans
 
-        def last_occurrence(nums, target):
-            start, end = 0, len(nums) - 1
-            res = -1
-            while start <= end:
-                mid = start + (end - start) // 2
-                if nums[mid] == target:
-                    res = mid
-                    start = mid + 1   # move right to find last occurrence
-                elif target < nums[mid]:
-                    end = mid - 1
+        def upperBound(nums: List[int], target: int) -> int:
+            n = len(nums)
+            low, high = 0, n - 1
+            ans = n
+            while low <= high:
+                mid = (low + high) // 2
+                if nums[mid] > target:
+                    ans = mid
+                    high = mid - 1  # look left
                 else:
-                    start = mid + 1
-            return res
+                    low = mid + 1   # look right
+            return ans
 
-        first = first_occurrence(nums, target)
-        last = last_occurrence(nums, target)
-        return [first, last]
+        n = len(nums)
+        lb = lowerBound(nums, target)
+        if lb == n or nums[lb] != target:
+            return [-1, -1]
+        return [lb, upperBound(nums, target) - 1]
