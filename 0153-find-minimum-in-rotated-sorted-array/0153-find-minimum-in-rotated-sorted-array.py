@@ -7,6 +7,8 @@ class Solution:
         ans=sys.maxsize
         while low<=high:
             mid=(low+high) // 2
+            if nums[low]<=nums[high]:
+                ans=min(ans,nums[low])
 
             if nums[low]<=nums[mid]:
                 ans= min(ans,nums[low])
