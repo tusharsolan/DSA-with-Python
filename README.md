@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
