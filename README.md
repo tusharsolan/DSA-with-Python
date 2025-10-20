@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tusharsolan/DSA-with-Python/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
