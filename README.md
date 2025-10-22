@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/tusharsolan/DSA-with-Python/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tusharsolan/DSA-with-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
