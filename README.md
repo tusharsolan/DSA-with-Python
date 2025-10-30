@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
