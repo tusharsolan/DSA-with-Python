@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
