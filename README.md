@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0050-powx-n](https://github.com/tusharsolan/DSA-with-Python/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/tusharsolan/DSA-with-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0503-next-greater-element-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
