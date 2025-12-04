@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/tusharsolan/DSA-with-Python/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharsolan/DSA-with-Python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/tusharsolan/DSA-with-Python/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
