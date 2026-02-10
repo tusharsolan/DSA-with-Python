@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsolan/DSA-with-Python/tree/master/0160-intersection-of-two-linked-lists) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tusharsolan/DSA-with-Python/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharsolan/DSA-with-Python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharsolan/DSA-with-Python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
