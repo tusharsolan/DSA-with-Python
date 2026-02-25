@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tusharsolan/DSA-with-Python/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0002-add-two-numbers](https://github.com/tusharsolan/DSA-with-Python/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tusharsolan/DSA-with-Python/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
 | [1971-incremental-memory-leak](https://github.com/tusharsolan/DSA-with-Python/tree/master/1971-incremental-memory-leak) |
 ## Recursion
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0142-linked-list-cycle-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsolan/DSA-with-Python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
