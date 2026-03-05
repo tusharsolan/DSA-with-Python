@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsolan/DSA-with-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tusharsolan/DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tusharsolan/DSA-with-Python/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharsolan/DSA-with-Python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/tusharsolan/DSA-with-Python/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Monotonic Stack
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tusharsolan/DSA-with-Python/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tusharsolan/DSA-with-Python/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
 |  |
