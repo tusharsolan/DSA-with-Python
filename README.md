@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0540-single-element-in-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsolan/DSA-with-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
 | ------- |
