@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0560-subarray-sum-equals-k](https://github.com/tusharsolan/DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/tusharsolan/DSA-with-Python/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/tusharsolan/DSA-with-Python/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/tusharsolan/DSA-with-Python/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/tusharsolan/DSA-with-Python/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/tusharsolan/DSA-with-Python/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tusharsolan/DSA-with-Python/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/tusharsolan/DSA-with-Python/tree/master/0890-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |
