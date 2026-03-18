@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tusharsolan/DSA-with-Python/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Divide and Conquer
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/tusharsolan/DSA-with-Python/tree/master/0890-lemonade-change) |
