@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/tusharsolan/DSA-with-Python/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsolan/DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
