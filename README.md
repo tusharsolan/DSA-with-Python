@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsolan/DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/tusharsolan/DSA-with-Python/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tusharsolan/DSA-with-Python/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/tusharsolan/DSA-with-Python/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/tusharsolan/DSA-with-Python/tree/master/0678-valid-parenthesis-string) |
