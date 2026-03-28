@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/tusharsolan/DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/tusharsolan/DSA-with-Python/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
