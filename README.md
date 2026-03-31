@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsolan/DSA-with-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/tusharsolan/DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tusharsolan/DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0148-sort-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -261,8 +265,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
