@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -265,10 +267,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
