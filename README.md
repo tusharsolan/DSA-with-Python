@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0155-min-stack](https://github.com/tusharsolan/DSA-with-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/tusharsolan/DSA-with-Python/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/tusharsolan/DSA-with-Python/tree/master/0020-valid-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/tusharsolan/DSA-with-Python/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/tusharsolan/DSA-with-Python/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tusharsolan/DSA-with-Python/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/tusharsolan/DSA-with-Python/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/tusharsolan/DSA-with-Python/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -280,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
