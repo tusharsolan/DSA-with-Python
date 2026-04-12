@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/tusharsolan/DSA-with-Python/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0234-palindrome-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tusharsolan/DSA-with-Python/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/tusharsolan/DSA-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tusharsolan/DSA-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tusharsolan/DSA-with-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/tusharsolan/DSA-with-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -309,6 +313,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
