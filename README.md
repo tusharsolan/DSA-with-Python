@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/tusharsolan/DSA-with-Python/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tusharsolan/DSA-with-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
