@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tusharsolan/DSA-with-Python/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/tusharsolan/DSA-with-Python/tree/master/0455-assign-cookies) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0543-diameter-of-binary-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tusharsolan/DSA-with-Python/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tusharsolan/DSA-with-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsolan/DSA-with-Python/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
