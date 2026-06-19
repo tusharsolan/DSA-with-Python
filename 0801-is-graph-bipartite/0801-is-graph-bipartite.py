@@ -1,6 +1,8 @@
 from collections import deque
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
+
+        
         def bfs(snode):
             q=deque()
             q.append(snode)
