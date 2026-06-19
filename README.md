@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsolan/DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tusharsolan/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/tusharsolan/DSA-with-Python/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tusharsolan/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tusharsolan/DSA-with-Python/tree/master/0162-find-peak-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/tusharsolan/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tusharsolan/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharsolan/DSA-with-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0542-01-matrix) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0110-balanced-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tusharsolan/DSA-with-Python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tusharsolan/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/tusharsolan/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsolan/DSA-with-Python/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/tusharsolan/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsolan/DSA-with-Python/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/tusharsolan/DSA-with-Python/tree/master/0542-01-matrix) |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/tusharsolan/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsolan/DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsolan/DSA-with-Python/tree/master/0547-number-of-provinces) |
 ## Graph Theory
